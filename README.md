@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Hi, I'm Victor Freitas <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px">
+## Hi, I'm Victor Freitas <img src="https://github.com/victorfreitass/victorfreitass/blob/main/gifs/wave.gif" width="20px">
 <div align="center">
   <a href="https://github.com/victorfreitass">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorfreitass&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
@@ -16,7 +16,7 @@
  
 <div> 
   <a href = "mailto:victor.fsilva45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://t.me/VictorFreitas" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+    <a href="https://t.me/Victor Freitas" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 	
 </div>
 	
@@ -30,8 +30,6 @@
   <br/>	
 	
   ##
- 
-<p><a href="https://www.buymeacoffee.com/gui1535"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ItsShyam" />
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Victorfreitass+thanks+for+your+visit!)]()
 

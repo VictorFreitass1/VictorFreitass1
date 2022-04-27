@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Hi, I'm Victor Freitas <img src="https://github.com/victorfreitass/victorfreitass/blob/main/gifs/wave.gif" width="20px">
+## Hi, I'm Victor Freitas <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px">
 <div align="center">
   <a href="https://github.com/victorfreitass">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorfreitass&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>

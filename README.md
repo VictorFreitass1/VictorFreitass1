@@ -33,15 +33,5 @@
     
     ![Snake animation](https://github.com/victorfreitass1/VictorFreitass1/blob/output/github-contribution-grid-snake.svg)
 </div>
-	
-  ## 📊 Github Stats
-	
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-      <a href="https://github.com/victorfreitass1"><img src="https://activity-graph.herokuapp.com/graph?username=victorfreitass1&custom_title=Victor%20Freitas's%20Contribution%20Graph&theme=react-dark" /></a>
-	</p>
-  <br/>	
-	
-  ##
- 
+	    
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=VictorFreitass1+thanks+for+your+visit!)]() 

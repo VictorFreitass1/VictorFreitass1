@@ -45,4 +45,4 @@
   ##
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Victorfreitass1+thanks+for+your+visit!)]()
-  ![snake gif](https://github.com/VictorFreitass1/VictorFreitass1/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/victorFreitass1/victorFreitass1/blob/output/github-contribution-grid-snake.svg)

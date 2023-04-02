@@ -34,4 +34,4 @@
     ![Snake animation](https://github.com/victorfreitass1/VictorFreitass1/blob/output/github-contribution-grid-snake.svg)
 </div>
 	    
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=VictorFreitass1+thanks+for+your+visit!)]() 
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=victorfreitass1+thanks+for+your+visit!)]() 

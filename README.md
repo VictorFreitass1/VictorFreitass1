@@ -27,10 +27,10 @@
   ##
  
 <div> 
- <a href="https://www.linkedin.com/in/victorfreitass1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:victor.fsilva45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/victorfreitass1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:victor.fsilva45@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank></a>
     <a href="https://t.me/Victor Freitas" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-    
+    ![Snake animation](https://github.com/gui1535/gui1535/blob/output/github-contribution-grid-snake.svg)
 </div>
 	
   ## 📊 Github Stats
@@ -43,6 +43,4 @@
   <br/>	
 	
   ##
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Victorfreitass1+thanks+for+your+visit!)]()
-  ![snake gif](https://github.com/victorFreitass1/victorFreitass1/blob/output/github-contribution-grid-snake.svg)
+ 

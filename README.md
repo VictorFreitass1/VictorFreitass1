@@ -2,7 +2,7 @@
 
 ## Hi, I'm Victor Freitas <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px">
 <div align="center">
-  <a href="https://github.com/victorfreitass">
+  <a href="https://github.com/victorfreitass1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorfreitass&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfreitass&layout=compact&langs_count=7&theme=react"/>
 </div>

@@ -34,7 +34,7 @@
       
     <div align="center">
 
-  	![Snake animation](https://github.com/VictorFreitass1/VictorFreitass1.github/workflows/snake.yml )
-
+  	![Snake animation](https://github.com/VictorFreitass1/VictorFreitass1/blob/output/github/workflows/snake.yml )
+	![Snake animation](https://github.com/VictorFreitass1/VictorFreitass1/blob/output/github-contribution-grid-snake.yml
     </div>
 	    

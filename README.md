@@ -3,8 +3,8 @@
 ## Hi, I'm Victor Freitas <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px">
 <div align="center">
   <a href="https://github.com/victorfreitass1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorfreitass&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfreitass&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorfreitass1&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfreitass1&layout=compact&langs_count=7&theme=react"/>
 </div>
 	
 <div style="display: inline_block"><br>
@@ -25,12 +25,12 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-      <a href="https://github.com/victorfreitass"><img src="https://activity-graph.herokuapp.com/graph?username=victorfreitass&custom_title=Victor%20Freitas's%20Contribution%20Graph&theme=react-dark" /></a>
+      <a href="https://github.com/victorfreitass1"><img src="https://activity-graph.herokuapp.com/graph?username=victorfreitass1&custom_title=Victor%20Freitas's%20Contribution%20Graph&theme=react-dark" /></a>
 	</p>
   <br/>	
 	
   ##
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Victorfreitass+thanks+for+your+visit!)]()
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Victorfreitass1+thanks+for+your+visit!)]()
 
 	

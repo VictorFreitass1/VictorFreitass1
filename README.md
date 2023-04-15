@@ -1,7 +1,8 @@
 <h1 align="center"> Olá, eu sou Victor Freitas <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px"> </h1>
 
- ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> 
+</div>
 
 <div align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">

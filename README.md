@@ -4,9 +4,12 @@
 
 
 <div align="center">
-  <a href="https://github.com/victorfreitass1">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorfreitass1&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfreitass1&layout=compact&langs_count=7&theme=react"/>
+	<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=victorfreitass1&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Rick Staa's Language stats" />
+</a>
+	<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=victorfreitass1&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default&hide_rank=true#gh-light-mode-only" alt="Rick Staa's Github stats" />		
+</a>
 </div>
 	
 <div align="center" style="display: inline_block"><br>

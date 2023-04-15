@@ -1,8 +1,12 @@
-## Olá, eu sou Victor Freitas <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px">
+<h1 align="center"> Olá, eu sou Victor Freitas <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="20px"> </h1>
+
+ ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+
 <div align="center">
   <a href="https://github.com/victorfreitass1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorfreitass1&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfreitass1&layout=compact&langs_count=7&theme=react"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorfreitass1&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfreitass1&layout=compact&langs_count=7&theme=react"/>
 </div>
 	
 <div style="display: inline_block"><br>

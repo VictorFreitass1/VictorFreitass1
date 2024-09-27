@@ -38,8 +38,6 @@
     <a href="https://t.me/Victor%20Freitas" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>    
 
-<div
-	<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/VictorFreitass/VictorFreitass/main/5RTG.gif">
-</div>   
+<img align="right" alt="Coding" width="300" src="https://github.com/VictorFreitass1/VictorFreitass1/blob/main/5RTG.gif">
 
 ![Snake animation](https://github.com/VictorFreitass1/VictorFreitass1/blob/output/github-contribution-grid-snake.svg)

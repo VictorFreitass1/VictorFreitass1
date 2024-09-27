@@ -39,7 +39,7 @@
 </div>    
 
 <div
-	<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/VictorFreitass/VictorFreitass/master/5RTG.gif">
+	<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/VictorFreitass/VictorFreitass/main/5RTG.gif">
 </div>   
 
 ![Snake animation](https://github.com/VictorFreitass1/VictorFreitass1/blob/output/github-contribution-grid-snake.svg)
